@@ -1,0 +1,42 @@
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\V-DOC Admin Panel.exe.config
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\V-DOC Admin Panel.exe
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\V-DOC Admin Panel.pdb
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.csprojAssemblyReference.cache
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V_DOC_Admin_Panel.Properties.Resources.resources
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.csproj.GenerateResource.cache
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.csproj.CoreCompileInputs.cache
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.exe
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.pdb
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V_DOC_Admin_Panel.LoginForm.resources
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\DBFramework.dll
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\DBFramework.pdb
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.csproj.CopyComplete
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\Telerik.WinControls.dll
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\TelerikCommon.dll
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\Telerik.WinControls.xml
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V_DOC_Admin_Panel.Screens.ManageUsersForm.resources
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V_DOC_Admin_Panel.Screens.User.UserInfoForm.resources
+C:\Users\Talha\source\repos\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.exe.licenses
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.csprojAssemblyReference.cache
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V_DOC_Admin_Panel.Properties.Resources.resources
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V_DOC_Admin_Panel.LoginForm.resources
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V_DOC_Admin_Panel.Screens.ManageUsersForm.resources
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V_DOC_Admin_Panel.Screens.Mechanic.MechanicInfoForm.resources
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V_DOC_Admin_Panel.Screens.User.UserInfoForm.resources
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.csproj.GenerateResource.cache
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.exe.licenses
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.csproj.CoreCompileInputs.cache
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\V-DOC Admin Panel.exe.config
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\V-DOC Admin Panel.exe
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\V-DOC Admin Panel.pdb
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\DBFramework.dll
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\Telerik.WinControls.dll
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\TelerikCommon.dll
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\DBFramework.pdb
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\bin\Debug\Telerik.WinControls.xml
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.csproj.CopyComplete
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.exe
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V-DOC Admin Panel.pdb
+D:\VDOC API\V-DOC Admin Panel\V-DOC Admin Panel\obj\Debug\V_DOC_Admin_Panel.Screens.Settings.SettingInfoForm.resources

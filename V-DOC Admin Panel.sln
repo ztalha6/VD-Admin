@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V-DOC Admin Panel", "V-DOC Admin Panel\V-DOC Admin Panel.csproj", "{538B8977-BB6A-4BA4-B841-49572B18528E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBFramework", "DBFramework\DBFramework.csproj", "{6AE8BE38-3C17-44CF-847E-6095CB382A16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538B8977-BB6A-4BA4-B841-49572B18528E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538B8977-BB6A-4BA4-B841-49572B18528E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538B8977-BB6A-4BA4-B841-49572B18528E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538B8977-BB6A-4BA4-B841-49572B18528E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE8BE38-3C17-44CF-847E-6095CB382A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE8BE38-3C17-44CF-847E-6095CB382A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE8BE38-3C17-44CF-847E-6095CB382A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE8BE38-3C17-44CF-847E-6095CB382A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B436E86-992F-45B7-AC5F-F8529D62B8D5}
+	EndGlobalSection
+EndGlobal

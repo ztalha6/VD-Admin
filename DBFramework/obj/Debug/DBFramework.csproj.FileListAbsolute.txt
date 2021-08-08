@@ -1,0 +1,85 @@
+C:\Users\Talha\source\repos\SchoolManager\DBFramework\bin\Debug\DBFramework.dll
+C:\Users\Talha\source\repos\SchoolManager\DBFramework\bin\Debug\DBFramework.pdb
+C:\Users\Talha\source\repos\SchoolManager\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+C:\Users\Talha\source\repos\SchoolManager\DBFramework\obj\Debug\DBFramework.dll
+C:\Users\Talha\source\repos\SchoolManager\DBFramework\obj\Debug\DBFramework.pdb
+C:\Users\Talha\source\repos\SchoolManager\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+C:\Users\Talha\source\repos\SchoolManager\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem@08112020\SchoolManager\DBFramework\bin\Debug\DBFramework.dll
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem@08112020\SchoolManager\DBFramework\bin\Debug\DBFramework.pdb
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem@08112020\SchoolManager\DBFramework\obj\Debug\DBFramework.csprojAssemblyReference.cache
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem@08112020\SchoolManager\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem@08112020\SchoolManager\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem@08112020\SchoolManager\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem@08112020\SchoolManager\DBFramework\obj\Debug\DBFramework.dll
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem@08112020\SchoolManager\DBFramework\obj\Debug\DBFramework.pdb
+C:\Users\Talha\Desktop\AuditControlSystem\AuditControlSystem\DBFramework\bin\Debug\DBFramework.dll
+C:\Users\Talha\Desktop\AuditControlSystem\AuditControlSystem\DBFramework\bin\Debug\DBFramework.pdb
+C:\Users\Talha\Desktop\AuditControlSystem\AuditControlSystem\DBFramework\obj\Debug\DBFramework.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\AuditControlSystem\AuditControlSystem\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+C:\Users\Talha\Desktop\AuditControlSystem\AuditControlSystem\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\AuditControlSystem\AuditControlSystem\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\AuditControlSystem\AuditControlSystem\DBFramework\obj\Debug\DBFramework.dll
+C:\Users\Talha\Desktop\AuditControlSystem\AuditControlSystem\DBFramework\obj\Debug\DBFramework.pdb
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\DBFramework\bin\Debug\DBFramework.dll
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\DBFramework\bin\Debug\DBFramework.pdb
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\DBFramework\obj\Debug\DBFramework.csprojAssemblyReference.cache
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\DBFramework\obj\Debug\DBFramework.dll
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\DBFramework\obj\Debug\DBFramework.pdb
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\AuditControl System\DBFramework\bin\Debug\DBFramework.dll
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\AuditControl System\DBFramework\bin\Debug\DBFramework.pdb
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\AuditControl System\DBFramework\obj\Debug\DBFramework.csprojAssemblyReference.cache
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\AuditControl System\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\AuditControl System\DBFramework\obj\Debug\DBFramework.dll
+C:\NextEra-Technologies\AuditControl-BOC\AuditControlSystem\AuditControl System\DBFramework\obj\Debug\DBFramework.pdb
+C:\Users\Talha\Desktop\AuditControl System\DBFramework\bin\Debug\DBFramework.dll
+C:\Users\Talha\Desktop\AuditControl System\DBFramework\bin\Debug\DBFramework.pdb
+C:\Users\Talha\Desktop\AuditControl System\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+C:\Users\Talha\Desktop\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\AuditControl System\DBFramework\obj\Debug\DBFramework.dll
+C:\Users\Talha\Desktop\AuditControl System\DBFramework\obj\Debug\DBFramework.pdb
+C:\Users\Talha\Desktop\AuditControl System\DBFramework\obj\Debug\DBFramework.csprojAssemblyReference.cache
+D:\Nextera\AuditContolSystem@20012021\AuditControl System\DBFramework\bin\Debug\DBFramework.dll
+D:\Nextera\AuditContolSystem@20012021\AuditControl System\DBFramework\bin\Debug\DBFramework.pdb
+D:\Nextera\AuditContolSystem@20012021\AuditControl System\DBFramework\obj\Debug\DBFramework.csprojAssemblyReference.cache
+D:\Nextera\AuditContolSystem@20012021\AuditControl System\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+D:\Nextera\AuditContolSystem@20012021\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+D:\Nextera\AuditContolSystem@20012021\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+D:\Nextera\AuditContolSystem@20012021\AuditControl System\DBFramework\obj\Debug\DBFramework.dll
+D:\Nextera\AuditContolSystem@20012021\AuditControl System\DBFramework\obj\Debug\DBFramework.pdb
+C:\Users\jd\Desktop\New folder (2)\AuditControl\AuditContol\AuditControl System\DBFramework\bin\Debug\DBFramework.dll
+C:\Users\jd\Desktop\New folder (2)\AuditControl\AuditContol\AuditControl System\DBFramework\bin\Debug\DBFramework.pdb
+C:\Users\jd\Desktop\New folder (2)\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+C:\Users\jd\Desktop\New folder (2)\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+C:\Users\jd\Desktop\New folder (2)\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+C:\Users\jd\Desktop\New folder (2)\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.dll
+C:\Users\jd\Desktop\New folder (2)\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.pdb
+C:\Users\jd\Desktop\AuditControl\AuditContol\AuditControl System\DBFramework\bin\Debug\DBFramework.dll
+C:\Users\jd\Desktop\AuditControl\AuditContol\AuditControl System\DBFramework\bin\Debug\DBFramework.pdb
+C:\Users\jd\Desktop\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+C:\Users\jd\Desktop\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+C:\Users\jd\Desktop\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+C:\Users\jd\Desktop\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.dll
+C:\Users\jd\Desktop\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.pdb
+D:\Nextera\AuditControl\AuditContol\AuditControl System\DBFramework\bin\Debug\DBFramework.dll
+D:\Nextera\AuditControl\AuditContol\AuditControl System\DBFramework\bin\Debug\DBFramework.pdb
+D:\Nextera\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.csprojAssemblyReference.cache
+D:\Nextera\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+D:\Nextera\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+D:\Nextera\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+D:\Nextera\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.dll
+D:\Nextera\AuditControl\AuditContol\AuditControl System\DBFramework\obj\Debug\DBFramework.pdb
+D:\VDOC API\V-DOC Admin Panel\DBFramework\bin\Debug\DBFramework.dll
+D:\VDOC API\V-DOC Admin Panel\DBFramework\bin\Debug\DBFramework.pdb
+D:\VDOC API\V-DOC Admin Panel\DBFramework\obj\Debug\DBFramework.csprojAssemblyReference.cache
+D:\VDOC API\V-DOC Admin Panel\DBFramework\obj\Debug\DBFramework.Windows.WinControls.SMDateTimePicker.resources
+D:\VDOC API\V-DOC Admin Panel\DBFramework\obj\Debug\DBFramework.csproj.GenerateResource.cache
+D:\VDOC API\V-DOC Admin Panel\DBFramework\obj\Debug\DBFramework.csproj.CoreCompileInputs.cache
+D:\VDOC API\V-DOC Admin Panel\DBFramework\obj\Debug\DBFramework.dll
+D:\VDOC API\V-DOC Admin Panel\DBFramework\obj\Debug\DBFramework.pdb
